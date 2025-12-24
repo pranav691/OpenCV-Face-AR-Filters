@@ -117,6 +117,3 @@ pip install opencv-python mediapipe numpy
 python main.py
 ```
 
-------------------------------------------------------------------------
-
-## 🧩 How It Works (Short Explanation)
